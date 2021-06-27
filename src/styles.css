@@ -1,0 +1,18 @@
+body {
+   text-align: center;
+}
+
+.list {
+   width: 200px;
+   text-align: left;
+   display: inline-block;
+}
+
+.nav li {
+  display: inline-block;
+  margin-right: 15px;
+}
+
+a {
+   text-decoration: none;
+}
